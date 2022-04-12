@@ -35,5 +35,5 @@ pip install -r requirements.txt
 ```
 Then run python falsk app.
 ```sh
-python app.py
+python telegrambot.py
 ```
